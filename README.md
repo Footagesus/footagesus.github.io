@@ -1,19 +1,33 @@
-## Hi there 👋
+## 👋 Hello!
 
-## About me
+Welcome to my GitHub profile!
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Footagesus&show_icons=true&count_private=true&theme=date_night&border_radius=20&locale=en)
+My name is Footages, and I am developing in LuaU and Python. My main focus is developing interfaces and tools for Roblox and other projects.
 
-![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=Footagesus&layout=compact&theme=date_night&border_radius=20&locale=en)
+---
 
+### 🛠️ Technology
+Languages: LuaU, Python
+Tools and platforms:
+- Roblox
+- UI development
 
-### Hello! I’m Footages, a developer passionate about crafting innovative solutions and working on exciting projects. My expertise spans a variety of technologies, including:
+---
 
-- 💾 | **Backend:** Python (Flask)
-- 🖥️ | **Frontend:** HTML, Tailwind CSS, JavaScript
-- 💿 | **Databases:** PostgreSQL, SQLite
-- 🎮 | **Game Development:** Roblox Studio
+🌟 Projects
+WindUI is my own UI library for Roblox with support for a dark theme and customization of color schemes.
+Functions:
+- Dark theme and customization
+- Interactive and flexible interface
 
-I’m dedicated to building user-friendly and functional applications, and I enjoy exploring new technologies and tools. My goal is to deliver high-quality code and valuable features that enhance the user experience.
+---
 
-Currently, I’m working on several projects related to web development and game development, and I’m always open to new opportunities and collaborations. Feel free to explore my repositories and projects!
+📚 Plans and interests
+- Improved interfaces and tools for Roblox
+- Development of new solutions and UI components
+- Open and accessible projects for the community
+
+---
+
+📫 Contact me
+Discord: .ftgs
