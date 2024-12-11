@@ -6,7 +6,7 @@ My name is Footages, and I am developing in LuaU and Python. My main focus is de
 
 ---
 
-### 🛠️ Technology
+## 🛠️ Technology
 Languages: LuaU, Python
 Tools and platforms:
 - Roblox
@@ -14,20 +14,20 @@ Tools and platforms:
 
 ---
 
-🌟 Projects
-WindUI is my own UI library for Roblox with support for a dark theme and customization of color schemes.
-Functions:
+## 🌟 Projects
+### WindUI 
+is my own UI library for Roblox with mobile support
 - Dark theme and customization
 - Interactive and flexible interface
 
 ---
 
-📚 Plans and interests
+## 📚 Plans and interests
 - Improved interfaces and tools for Roblox
 - Development of new solutions and UI components
 - Open and accessible projects for the community
 
 ---
 
-📫 Contact me
+## 📫 Contact me
 Discord: .ftgs
