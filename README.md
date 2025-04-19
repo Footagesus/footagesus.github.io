@@ -17,5 +17,5 @@ My main focus is developing interfaces and tools for Roblox and other projects.
 ---
 
 ## 📫 Contact me
-- Discord: `.ftgs`
-- Telegram: `@oftgs`
+- Discord: <img height="22px" src="./images/discord.png"/>
+- Telegram: <img height="22px" src="./images/telegram.png"/>
