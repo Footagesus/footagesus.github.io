@@ -1,33 +1,26 @@
-## 👋 Hello!
+# 👋 Hello!
 
-Welcome to my GitHub profile!
+## 👤 About me
 
-My name is Footages, and I am developing in LuaU and Python. My main focus is developing interfaces and tools for Roblox and other projects.
+My Nickname is Footages. I'm developing in LuaU. 
+My main focus is developing interfaces and tools for Roblox and other projects.
 
 ---
 
 ## 🛠️ Technology
-Languages: LuaU, Python
-Tools and platforms:
-- ![roblox](https://footagesus.github.io/Footagesus/html/roblox.html)
-- UI development
+Languages: ![python](./images/python.png) ![luau](./images/luau.png)
+Tools and Platforms: ![roblox](./images/roblox.png)
 
 ---
 
 ## 🌟 Projects
 ### WindUI 
-is my own UI library for Roblox with mobile support
+Roblox UI Library
 - Dark theme and customization
 - Interactive and flexible interface
 
 ---
 
-## 📚 Plans and interests
-- Improved interfaces and tools for Roblox
-- Development of new solutions and UI components
-- Open and accessible projects for the community
-
----
-
 ## 📫 Contact me
 Discord: .ftgs
+Telegram: @oftgs
