@@ -8,7 +8,7 @@ My main focus is developing interfaces and tools for Roblox and other projects.
 ---
 
 ## 🛠️ Technology
-Languages: ![python](./images/python.png) ![luau](./images/luau.png)
+Languages: <img height="20px" src="./images/python.png"/> ![luau](./images/luau.png)
 Tools and Platforms: ![roblox](./images/roblox.png)
 
 ---
