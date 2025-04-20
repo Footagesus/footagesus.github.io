@@ -18,4 +18,4 @@ My main focus is developing interfaces and tools for Roblox and other projects.
 ---
 
 ## 📫 Contact me
-<img height="22px" src="./images/discord.png"/> <img height="22px" src="./images/telegram.png"/>
+<img height="22px" src="./images/discord.png"/>
