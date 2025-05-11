@@ -1,0 +1,17 @@
+{
+    "name": "footagesus",
+    "version": "1.0.0",
+    "description": "About me",
+    "main": "postcss.config.js",
+    "scripts": {
+        "build": "tailwindcss -i ./src/tailwind.css -o ./src/dist/output.css --watch"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "autoprefixer": "^10.4.21",
+        "postcss": "^8.5.3",
+        "tailwindcss": "^4.1.6"
+    }
+}
